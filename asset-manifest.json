@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://parvejkhanpj.github.io/csb-jdgbo1/static/css/main.12de305a.chunk.css",
+    "main.js": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/main.ab068420.chunk.js",
+    "main.js.map": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/main.ab068420.chunk.js.map",
+    "runtime-main.js": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/runtime-main.659c7e42.js",
+    "runtime-main.js.map": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/runtime-main.659c7e42.js.map",
+    "static/js/2.b212b688.chunk.js": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/2.b212b688.chunk.js",
+    "static/js/2.b212b688.chunk.js.map": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/2.b212b688.chunk.js.map",
+    "index.html": "https://parvejkhanpj.github.io/csb-jdgbo1/index.html",
+    "static/css/main.12de305a.chunk.css.map": "https://parvejkhanpj.github.io/csb-jdgbo1/static/css/main.12de305a.chunk.css.map",
+    "static/js/2.b212b688.chunk.js.LICENSE.txt": "https://parvejkhanpj.github.io/csb-jdgbo1/static/js/2.b212b688.chunk.js.LICENSE.txt",
+    "static/media/airbnb-logo.e4424517.png": "https://parvejkhanpj.github.io/csb-jdgbo1/static/media/airbnb-logo.e4424517.png",
+    "static/media/kattie.8c39a93a.png": "https://parvejkhanpj.github.io/csb-jdgbo1/static/media/kattie.8c39a93a.png",
+    "static/media/photo-grid.294d59b6.png": "https://parvejkhanpj.github.io/csb-jdgbo1/static/media/photo-grid.294d59b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.659c7e42.js",
+    "static/js/2.b212b688.chunk.js",
+    "static/css/main.12de305a.chunk.css",
+    "static/js/main.ab068420.chunk.js"
+  ]
+}
